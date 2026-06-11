@@ -12,10 +12,8 @@ dist
 dist-ssr
 *.local
 
-.env
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
 .idea
@@ -32,3 +30,4 @@ dist-ssr
 # Vitest artifacts (browser screenshots/attachments)
 **/__screenshots__/
 .vitest-attachments/
+config.bat
